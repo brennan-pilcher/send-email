@@ -1,4 +1,0 @@
-To: brennan.pilcher@gmail.com
-From: brennanpilcher@sonic.net
-Subject: Public IP Address Change
-
